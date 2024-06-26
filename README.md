@@ -4,7 +4,7 @@ This is a web application for playing Dumb Charades, where users can select cate
 
 ## Demo
 
-You can see a live demo of the app [here](https://your-live-demo-link.com).
+You can see a live demo of the app [here](https://bijayabc.github.io/Dumb-Charades/).
 
 ## Features
 
